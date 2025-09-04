@@ -1,11 +1,65 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hu">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="rendeles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gonzo Kicks - Rendelés</title>
+
 </head>
 <body>
-    
+  <header>
+    <img src="logo.jpg" width="110px" height="100px" alt="Gonzo Kicks"><h1>Gonzo Kicks</h1>
+  </header>
+
+  <main>
+<h2>Rendelési űrlap</h2>
+<form onsubmit="submitOrder(event)">
+<!-- Méret -->
+<label for="meret">Méret:</label>
+<select id="meret" name="meret">
+<script>
+for (let i = 20; i <= 50; i++) {
+document.write(`<option value="${i}">${i}</option>`);
+}
+</script>
+</select>
+
+
+<!-- Ár -->
+<label for="ar">Ár (Ft):</label>
+<input type="number" id="ar" name="ar" min="10000" max="500000" step="1000" value="10000">
+
+
+<!-- Anyag -->
+<label for="anyag">Anyag:</label>
+<select id="anyag" name="anyag">
+<option value="bor">Bőr</option>
+<option value="mubor">Műbőr</option>
+<option value="textilia">Textília</option>
+<option value="gumi">Gumi</option>
+</select>
+
+
+<!-- Viselet -->
+<label for="viselet">Viselet:</label>
+<select id="viselet" name="viselet">
+<option value="napi">Napi</option>
+<option value="alkalmi">Alkalmi</option>
+<option value="sporthoz">Sporthoz</option>
+</select>
+
+
+<button type="submit">Rendelés leadása</button>
+</form>
+</main>
+
+
+<script>
+function submitOrder(event) {
+event.preventDefault(); // ne küldje el az űrlapot
+alert("A rendelés sikeres, további tájékoztatás emailben.");
+}
+</script>
 </body>
 </html>
