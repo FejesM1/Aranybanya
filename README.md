@@ -1,0 +1,2 @@
+# Aranybanya
+IKT projektmunka feladat
