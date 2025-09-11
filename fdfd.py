@@ -47,17 +47,19 @@ cipok = beolvas_cipok(fajl)
 
 print("--- GONZO Cipő Kereső ---")
 try:
-    min_ar = int(input("Add meg a minimum árat (vagy hagyd üresen): ") or 0)
+    min_ar_input = input("Add meg a minimum árat (vagy hagyd üresen): ")
+    min_ar = int(min_ar_input) if min_ar_input else None
 except ValueError:
     min_ar = None
 
 try:
-    max_ar = int(input("Add meg a maximum árat (vagy hagyd üresen): ") or 9999999)
+    max_ar_input = input("Add meg a maximum árat (vagy hagyd üresen): ")
+    max_ar = int(max_ar_input) if max_ar_input else None
 except ValueError:
     max_ar = None
 
 anyag = input("Add meg az anyagot (bőr, műbőr, textília, gumi) vagy hagyd üresen: ") or None
-viselet = input("Add meg a viseletet (napi, alkalmi, sporthoz) vagy hagyd üresen: ") or None
+viselet = input("Add meg a viseletet (napi, alkalmi, sport) vagy hagyd üresen: ") or None
 
 eredmeny = kereses(cipok, min_ar=min_ar, max_ar=max_ar, anyag=anyag, viselet=viselet)
 
