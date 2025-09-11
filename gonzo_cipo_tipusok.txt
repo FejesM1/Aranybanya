@@ -1,72 +1,144 @@
 GONZO Prestige Casual: ár = 10000 Ft, anyag = bőr, viselet = napi
 GONZO Noble Luxe: ár = 10000 Ft, anyag = bőr, viselet = alkalmi
-GONZO Prestige Sprint: ár = 10000 Ft, anyag = bőr, viselet = sporthoz
+GONZO Prestige Sprint: ár = 10000 Ft, anyag = bőr, viselet = sport
 GONZO EcoLine Ease: ár = 10000 Ft, anyag = műbőr, viselet = napi
 GONZO EcoLine Charm: ár = 10000 Ft, anyag = műbőr, viselet = alkalmi
-GONZO Vivid Active: ár = 10000 Ft, anyag = műbőr, viselet = sporthoz
+GONZO Vivid Active: ár = 10000 Ft, anyag = műbőr, viselet = sport
 GONZO LiteWeave Flow: ár = 10000 Ft, anyag = textília, viselet = napi
 GONZO FlexRun Luxe: ár = 10000 Ft, anyag = textília, viselet = alkalmi
-GONZO Aero Active: ár = 10000 Ft, anyag = textília, viselet = sporthoz
+GONZO Aero Active: ár = 10000 Ft, anyag = textília, viselet = sport
 GONZO Gripster Ease: ár = 10000 Ft, anyag = gumi, viselet = napi
 GONZO Gripster Charm: ár = 10000 Ft, anyag = gumi, viselet = alkalmi
-GONZO Gripster Sprint: ár = 10000 Ft, anyag = gumi, viselet = sporthoz
+GONZO Gripster Sprint: ár = 10000 Ft, anyag = gumi, viselet = sport
 GONZO Prestige Casual: ár = 25000 Ft, anyag = bőr, viselet = napi
 GONZO Noble Elegant: ár = 25000 Ft, anyag = bőr, viselet = alkalmi
-GONZO Imperial Power: ár = 25000 Ft, anyag = bőr, viselet = sporthoz
+GONZO Imperial Power: ár = 25000 Ft, anyag = bőr, viselet = sport
 GONZO Vivid Casual: ár = 25000 Ft, anyag = műbőr, viselet = napi
 GONZO Urbanix Charm: ár = 25000 Ft, anyag = műbőr, viselet = alkalmi
-GONZO Urbanix Sprint: ár = 25000 Ft, anyag = műbőr, viselet = sporthoz
+GONZO Urbanix Sprint: ár = 25000 Ft, anyag = műbőr, viselet = sport
 GONZO Aero Casual: ár = 25000 Ft, anyag = textília, viselet = napi
 GONZO FlexRun Elegant: ár = 25000 Ft, anyag = textília, viselet = alkalmi
-GONZO Aero Sprint: ár = 25000 Ft, anyag = textília, viselet = sporthoz
+GONZO Aero Sprint: ár = 25000 Ft, anyag = textília, viselet = sport
 GONZO Gripster Ease: ár = 25000 Ft, anyag = gumi, viselet = napi
 GONZO Terra Charm: ár = 25000 Ft, anyag = gumi, viselet = alkalmi
-GONZO Gripster Active: ár = 25000 Ft, anyag = gumi, viselet = sporthoz
+GONZO Gripster Active: ár = 25000 Ft, anyag = gumi, viselet = sport
 GONZO Noble Ease: ár = 50000 Ft, anyag = bőr, viselet = napi
 GONZO Prestige Charm: ár = 50000 Ft, anyag = bőr, viselet = alkalmi
-GONZO Imperial Power: ár = 50000 Ft, anyag = bőr, viselet = sporthoz
+GONZO Imperial Power: ár = 50000 Ft, anyag = bőr, viselet = sport
 GONZO Vivid Casual: ár = 50000 Ft, anyag = műbőr, viselet = napi
 GONZO Urbanix Luxe: ár = 50000 Ft, anyag = műbőr, viselet = alkalmi
-GONZO Vivid Active: ár = 50000 Ft, anyag = műbőr, viselet = sporthoz
+GONZO Vivid Active: ár = 50000 Ft, anyag = műbőr, viselet = sport
 GONZO LiteWeave Ease: ár = 50000 Ft, anyag = textília, viselet = napi
 GONZO Aero Elegant: ár = 50000 Ft, anyag = textília, viselet = alkalmi
-GONZO LiteWeave Sprint: ár = 50000 Ft, anyag = textília, viselet = sporthoz
+GONZO LiteWeave Sprint: ár = 50000 Ft, anyag = textília, viselet = sport
 GONZO Terra Casual: ár = 50000 Ft, anyag = gumi, viselet = napi
 GONZO Storm Luxe: ár = 50000 Ft, anyag = gumi, viselet = alkalmi
-GONZO Gripster Power: ár = 50000 Ft, anyag = gumi, viselet = sporthoz
+GONZO Gripster Power: ár = 50000 Ft, anyag = gumi, viselet = sport
 GONZO Prestige Flow: ár = 100000 Ft, anyag = bőr, viselet = napi
 GONZO Imperial Luxe: ár = 100000 Ft, anyag = bőr, viselet = alkalmi
-GONZO Noble Active: ár = 100000 Ft, anyag = bőr, viselet = sporthoz
+GONZO Noble Active: ár = 100000 Ft, anyag = bőr, viselet = sport
 GONZO Urbanix Ease: ár = 100000 Ft, anyag = műbőr, viselet = napi
 GONZO Urbanix Luxe: ár = 100000 Ft, anyag = műbőr, viselet = alkalmi
-GONZO Vivid Sprint: ár = 100000 Ft, anyag = műbőr, viselet = sporthoz
+GONZO Vivid Sprint: ár = 100000 Ft, anyag = műbőr, viselet = sport
 GONZO LiteWeave Flow: ár = 100000 Ft, anyag = textília, viselet = napi
 GONZO LiteWeave Charm: ár = 100000 Ft, anyag = textília, viselet = alkalmi
-GONZO Aero Power: ár = 100000 Ft, anyag = textília, viselet = sporthoz
+GONZO Aero Power: ár = 100000 Ft, anyag = textília, viselet = sport
 GONZO Terra Flow: ár = 100000 Ft, anyag = gumi, viselet = napi
 GONZO Storm Elegant: ár = 100000 Ft, anyag = gumi, viselet = alkalmi
-GONZO Gripster Sprint: ár = 100000 Ft, anyag = gumi, viselet = sporthoz
+GONZO Gripster Sprint: ár = 100000 Ft, anyag = gumi, viselet = sport
 GONZO Noble Casual: ár = 250000 Ft, anyag = bőr, viselet = napi
 GONZO Prestige Elegant: ár = 250000 Ft, anyag = bőr, viselet = alkalmi
-GONZO Noble Sprint: ár = 250000 Ft, anyag = bőr, viselet = sporthoz
+GONZO Noble Sprint: ár = 250000 Ft, anyag = bőr, viselet = sport
 GONZO Urbanix Flow: ár = 250000 Ft, anyag = műbőr, viselet = napi
 GONZO Vivid Charm: ár = 250000 Ft, anyag = műbőr, viselet = alkalmi
-GONZO Vivid Active: ár = 250000 Ft, anyag = műbőr, viselet = sporthoz
+GONZO Vivid Active: ár = 250000 Ft, anyag = műbőr, viselet = sport
 GONZO FlexRun Flow: ár = 250000 Ft, anyag = textília, viselet = napi
 GONZO LiteWeave Luxe: ár = 250000 Ft, anyag = textília, viselet = alkalmi
-GONZO LiteWeave Power: ár = 250000 Ft, anyag = textília, viselet = sporthoz
+GONZO LiteWeave Power: ár = 250000 Ft, anyag = textília, viselet = sport
 GONZO Terra Casual: ár = 250000 Ft, anyag = gumi, viselet = napi
 GONZO Gripster Charm: ár = 250000 Ft, anyag = gumi, viselet = alkalmi
-GONZO Gripster Sprint: ár = 250000 Ft, anyag = gumi, viselet = sporthoz
+GONZO Gripster Sprint: ár = 250000 Ft, anyag = gumi, viselet = sport
 GONZO Noble Casual: ár = 500000 Ft, anyag = bőr, viselet = napi
 GONZO Prestige Elegant: ár = 500000 Ft, anyag = bőr, viselet = alkalmi
-GONZO Imperial Active: ár = 500000 Ft, anyag = bőr, viselet = sporthoz
+GONZO Imperial Active: ár = 500000 Ft, anyag = bőr, viselet = sport
 GONZO Urbanix Flow: ár = 500000 Ft, anyag = műbőr, viselet = napi
 GONZO Vivid Charm: ár = 500000 Ft, anyag = műbőr, viselet = alkalmi
-GONZO Vivid Active: ár = 500000 Ft, anyag = műbőr, viselet = sporthoz
+GONZO Vivid Active: ár = 500000 Ft, anyag = műbőr, viselet = sport
 GONZO FlexRun Flow: ár = 500000 Ft, anyag = textília, viselet = napi
 GONZO LiteWeave Luxe: ár = 500000 Ft, anyag = textília, viselet = alkalmi
-GONZO Aero Active: ár = 500000 Ft, anyag = textília, viselet = sporthoz
+GONZO Aero Active: ár = 500000 Ft, anyag = textília, viselet = sport
 GONZO Storm Ease: ár = 500000 Ft, anyag = gumi, viselet = napi
 GONZO Storm Luxe: ár = 500000 Ft, anyag = gumi, viselet = alkalmi
-GONZO Terra Power: ár = 500000 Ft, anyag = gumi, viselet = sporthoz
+GONZO Terra Power: ár = 500000 Ft, anyag = gumi, viselet = sport
+GONZO Regal Pace: ár = 10000 Ft, anyag = bőr, viselet = napi
+GONZO Majestic Dawn: ár = 15000 Ft, anyag = bőr, viselet = alkalmi
+GONZO Titan Sprint: ár = 20000 Ft, anyag = bőr, viselet = sport
+GONZO NeoWalk Ease: ár = 25000 Ft, anyag = műbőr, viselet = napi
+GONZO Crystal Charm: ár = 30000 Ft, anyag = műbőr, viselet = alkalmi
+GONZO Rapid Vibe: ár = 35000 Ft, anyag = műbőr, viselet = sport
+GONZO AeroLite Flow: ár = 40000 Ft, anyag = textília, viselet = napi
+GONZO Velvet Trace: ár = 45000 Ft, anyag = textília, viselet = alkalmi
+GONZO SwiftRun Core: ár = 50000 Ft, anyag = textília, viselet = sport
+GONZO GripFlow Ease: ár = 55000 Ft, anyag = gumi, viselet = napi
+GONZO Pulse Charm: ár = 60000 Ft, anyag = gumi, viselet = alkalmi
+GONZO Thunder Step: ár = 65000 Ft, anyag = gumi, viselet = sport
+GONZO Heritage Walk: ár = 70000 Ft, anyag = bőr, viselet = napi
+GONZO Crown Elegant: ár = 75000 Ft, anyag = bőr, viselet = alkalmi
+GONZO Valor Drive: ár = 80000 Ft, anyag = bőr, viselet = sport
+GONZO Metro Casual: ár = 85000 Ft, anyag = műbőr, viselet = napi
+GONZO Stellar Glow: ár = 90000 Ft, anyag = műbőr, viselet = alkalmi
+GONZO Nitro Motion: ár = 95000 Ft, anyag = műbőr, viselet = sport
+GONZO Breeze Flow: ár = 100000 Ft, anyag = textília, viselet = napi
+GONZO Lumen Charm: ár = 105000 Ft, anyag = textília, viselet = alkalmi
+GONZO StrideForce: ár = 110000 Ft, anyag = textília, viselet = sport
+GONZO CoreEase: ár = 115000 Ft, anyag = gumi, viselet = napi
+GONZO Terra Shine: ár = 120000 Ft, anyag = gumi, viselet = alkalmi
+GONZO StormRush: ár = 125000 Ft, anyag = gumi, viselet = sport
+GONZO Prime Ease: ár = 130000 Ft, anyag = bőr, viselet = napi
+GONZO Eternal Grace: ár = 135000 Ft, anyag = bőr, viselet = alkalmi
+GONZO Iron Pulse: ár = 140000 Ft, anyag = bőr, viselet = sport
+GONZO Nova Casual: ár = 145000 Ft, anyag = műbőr, viselet = napi
+GONZO LuxeStar: ár = 150000 Ft, anyag = műbőr, viselet = alkalmi
+GONZO Hyper Active: ár = 155000 Ft, anyag = műbőr, viselet = sport
+GONZO CloudStep: ár = 160000 Ft, anyag = textília, viselet = napi
+GONZO Silk Horizon: ár = 165000 Ft, anyag = textília, viselet = alkalmi
+GONZO AeroForce: ár = 170000 Ft, anyag = textília, viselet = sport
+GONZO RockEase: ár = 175000 Ft, anyag = gumi, viselet = napi
+GONZO GlowCharm: ár = 180000 Ft, anyag = gumi, viselet = alkalmi
+GONZO Vortex Drive: ár = 185000 Ft, anyag = gumi, viselet = sport
+GONZO Imperial Pace: ár = 190000 Ft, anyag = bőr, viselet = napi
+GONZO Noble Gleam: ár = 195000 Ft, anyag = bőr, viselet = alkalmi
+GONZO Phantom Rush: ár = 200000 Ft, anyag = bőr, viselet = sport
+GONZO Urban Walk: ár = 205000 Ft, anyag = műbőr, viselet = napi
+GONZO Cosmic Aura: ár = 210000 Ft, anyag = műbőr, viselet = alkalmi
+GONZO Turbo Force: ár = 215000 Ft, anyag = műbőr, viselet = sport
+GONZO SkyWeave: ár = 220000 Ft, anyag = textília, viselet = napi
+GONZO Radiant Flow: ár = 225000 Ft, anyag = textília, viselet = alkalmi
+GONZO JetStride: ár = 230000 Ft, anyag = textília, viselet = sport
+GONZO TerraLine: ár = 235000 Ft, anyag = gumi, viselet = napi
+GONZO StormHalo: ár = 240000 Ft, anyag = gumi, viselet = alkalmi
+GONZO ThunderCore: ár = 245000 Ft, anyag = gumi, viselet = sport
+GONZO Monarch Ease: ár = 250000 Ft, anyag = bőr, viselet = napi
+GONZO Prestige Glow: ár = 255000 Ft, anyag = bőr, viselet = alkalmi
+GONZO TitanForce: ár = 260000 Ft, anyag = bőr, viselet = sport
+GONZO MetroFlow: ár = 265000 Ft, anyag = műbőr, viselet = napi
+GONZO Galaxy Shine: ár = 270000 Ft, anyag = műbőr, viselet = alkalmi
+GONZO NitroEdge: ár = 275000 Ft, anyag = műbőr, viselet = sport
+GONZO Stratus Walk: ár = 280000 Ft, anyag = textília, viselet = napi
+GONZO Aurora Gleam: ár = 285000 Ft, anyag = textília, viselet = alkalmi
+GONZO Velocity Pro: ár = 290000 Ft, anyag = textília, viselet = sport
+GONZO CorePulse: ár = 295000 Ft, anyag = gumi, viselet = napi
+GONZO Crystal Charm: ár = 300000 Ft, anyag = gumi, viselet = alkalmi
+GONZO ThunderClash: ár = 305000 Ft, anyag = gumi, viselet = sport
+GONZO Royal Line: ár = 310000 Ft, anyag = bőr, viselet = napi
+GONZO Zenith Grace: ár = 315000 Ft, anyag = bőr, viselet = alkalmi
+GONZO Eternal Drive: ár = 320000 Ft, anyag = bőr, viselet = sport
+GONZO UltraWalk: ár = 325000 Ft, anyag = műbőr, viselet = napi
+GONZO Stellar Luxe: ár = 330000 Ft, anyag = műbőr, viselet = alkalmi
+GONZO HyperVolt: ár = 335000 Ft, anyag = műbőr, viselet = sport
+GONZO SkyFlow Prime: ár = 340000 Ft, anyag = textília, viselet = napi
+GONZO Infinity Charm: ár = 345000 Ft, anyag = textília, viselet = alkalmi
+GONZO AeroCore Elite: ár = 350000 Ft, anyag = textília, viselet = sport
+GONZO StormLine: ár = 355000 Ft, anyag = gumi, viselet = napi
+GONZO Radiant Luxe: ár = 360000 Ft, anyag = gumi, viselet = alkalmi
+GONZO TitanRush: ár = 365000 Ft, anyag = gumi, viselet = sport
